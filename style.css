@@ -1,0 +1,39 @@
+
+body, html {
+    height: 100%;
+    margin: 0%;
+    overflow:hidden;
+}
+
+.bg {
+    background-image: url(https://cdn.pixabay.com/photo/2015/12/08/00/26/desk-1081708_960_720.jpg);
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+}
+
+.intro {
+    margin-top:0%;
+    padding-top:50px;
+    color: rgb(61, 75, 94);
+}
+
+.content {
+    text-align: center;
+    font-family: 'Gloria Hallelujah','Yeon Sung', cursive;
+    padding-top: 30px;
+}
+b {
+    color :rgb(61, 75, 94);
+}
+
+ul {
+    font-size: 18pt;
+    border-style: double;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
